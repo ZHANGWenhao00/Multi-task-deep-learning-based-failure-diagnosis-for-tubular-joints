@@ -11,7 +11,9 @@
 
 **Database establishment**<br />
 The workflow for constructing the image and text databases is illustrated in Fig. 1, containing four key steps. Specifically, following a systematic search of common literature databases, 350 failed tubular joints are collected from 122 independent experimental programs reported in theses and journal papers. <br />
-
+<div align=center>
+<img src="https://github.com/ZHANGWenhao00/Multi-task-deep-learning-based-failure-diagnosis-for-tubular-joints/blob/main/1.png" >
+</div>
 
 <div align="center">
   Fig. 1. Construction of image/text databases for failure identification and description generation of tubular joints.
