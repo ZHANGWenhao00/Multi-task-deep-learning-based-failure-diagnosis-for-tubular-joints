@@ -3,6 +3,8 @@
 ## **The link to the dataset is https://pan.baidu.com/s/1wZtmmGNoW0PW2lTzb25e1g?pwd=5nby.**<br />
 
 ## **The website of the paper is https://doi.org/10.1016/j.aei.2026.104494.**
+## Please cite this paper when using the dataset for academic purposes.
+W.-H. Zhang, X.-G. Zhou, C. Hou, Z.-Z. Hu, Y.-T. Guo, Multi-task deep learning-based failure diagnosis for tubular joints: Automated identification and description generation, Advanced Engineering Informatics 72 (2026) 104494. https://doi.org/10.1016/j.aei.2026.104494.**
 ****
 
 ### **Paper**: <br />Multi-task deep learning-based failure diagnosis for tubular joints: Automated identification and description generation<br />
