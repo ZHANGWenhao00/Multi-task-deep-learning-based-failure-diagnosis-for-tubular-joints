@@ -1,6 +1,6 @@
 # Multi-task-deep-learning-based-failure-diagnosis-for-tubular-joints
 
-## **The all datasets will be uploaded here once the journal article is online.**<br />
+## **The link to the dataset is https://pan.baidu.com/s/1wZtmmGNoW0PW2lTzb25e1g?pwd=5nby.**<br />
 
 ## **The website of the paper will be uploaded here once the journal article is online.**
 ****
