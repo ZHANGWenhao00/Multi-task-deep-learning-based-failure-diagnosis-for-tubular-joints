@@ -1,1 +1,0 @@
-01_01_1.png	brace	0	1	0	Local buckling of circular compression brace adjacent to a connection. Buckling of the circular compression brace close to the connection. A connection-adjacent circular compression brace experienced local buckling.
